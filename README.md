@@ -1,6 +1,6 @@
-﻿# IA 329 â€” Policy Development for Information Assurance
+﻿# IA 329 - Policy Development for Information Assurance
 
-College coursework archive for **IA 329 â€” Policy Development for Information Assurance** at Eastern Michigan University.  
+College coursework archive for **IA 329 - Policy Development for Information Assurance** at Eastern Michigan University.  
 Policy templates, disaster-recovery planning structure, annotated bibliographies, and policy drafts.
 
 **Author:** [Julio Barros](https://github.com/Jkbarros)  
@@ -32,7 +32,7 @@ flowchart LR
 
 | Course | Link |
 |--------|------|
-| IA 103 â€” Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
+| IA 103 - Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
 | college-projects index | [college-projects](https://github.com/Jkbarros/college-projects) |
 
 ## Roadmap
@@ -47,4 +47,4 @@ flowchart LR
 
 ## License
 
-Content Â© Julio Barros. Use at your own risk.
+Content © Julio Barros. Use at your own risk.
