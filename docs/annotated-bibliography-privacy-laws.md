@@ -1,0 +1,11 @@
+# Annotated Bibliography Privacy Laws
+
+**Source:** [`Annotated Bibliography Privacy Laws.docx`](../archive/canvas-submissions/Annotated%20Bibliography%20Privacy%20Laws.docx)  
+**Course:** IA 329 - Policy Development for Information Assurance (EMU)  
+**Author:** Julio Barros
+
+In the United States, at the federal level, the power to enforce data protection regulations and protect data privacy belongs to the U.S. Federal Trade Commission (FTC), which has a broad level of authority. However, there is no federal data privacy law or central data protection authority tasked with ensuring compliance. Instead, most regulation is at the state level, so state attorneys general play a key role in enforcement. These state-level regulations often have overlapping or incompatible provisions. For example, all 50 U.S. states have adopted data breach notification laws, but there are differences in the definition of personal data and even in what constitutes a data breach. Similarly, at least 35 states and Puerto Rico each have separate data disposal laws. Much the same is true with data privacy laws. In the absence of a federal mandate, at least 25 states have decided to step up. The well-known California Consumer Privacy Act (CCPA) created a wave of at least 9 similar regulations in Maryland, Nevada, Massachusetts, Rhode Island and other states. The California Consumer Privacy Act (CCPA) started as a ballot initiative in response to growing public concern about the amount of private data that digital and technology businesses in Silicon Valley have been quietly collecting and selling for decades. The CCPA incorporates the core principles of the data protection and data privacy requirements in the General Data Protection Regulation (GDPR), the far-reaching privacy protection law enacted by the European Union.
+
+Klosowski, T. (2021, September 6). The State of Consumer Data Privacy Laws in the US (and why it matters). Retrieved March 11, 2023, from https://www.nytimes.com/wirecutter/blog/state-of-privacy-laws-in-us/
+
+Bellamy, F. D. (2023, January 12). U.S. data privacy laws to enter New Era in 2023. Retrieved March 11, 2023, from https://www.reuters.com/legal/legalindustry/us-data-privacy-laws-enter-new-era-2023-2023-01-12/

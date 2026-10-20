@@ -1,7 +1,7 @@
-# Archive index — ﻿# IA 329 - Policy Development for Information Assurance
+# Archive index — IA 329
 
-Readable map of files under `archive/`.
-Original PDF/DOCX submissions from Canvas; open the linked file for full content.
+Readable map of files under `archive/`.  
+Prefer markdown in `docs/` when available.
 
 ## canvas-submissions
 
@@ -17,8 +17,7 @@ Original PDF/DOCX submissions from Canvas; open the linked file for full content
 | [Policy Review Format .docx](../archive/canvas-submissions/Policy%20Review%20Format%20.docx) | docx |
 | [Smart Home Security Chat Gpt.docx](../archive/canvas-submissions/Smart%20Home%20Security%20Chat%20Gpt.docx) | docx |
 
-
 ## Notes
 
-- Filenames match Canvas export names (including duplicates like `-1` copies).
-- Prefer markdown in `docs/` when available; this index is the fallback catalog.
+- Run `python scripts/docx_to_markdown.py` after editing DOCX in `archive/`.
+- Guided index: [submissions-catalog.md](submissions-catalog.md).

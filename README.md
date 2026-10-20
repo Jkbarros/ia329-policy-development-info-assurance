@@ -1,7 +1,9 @@
 ﻿# IA 329 - Policy Development for Information Assurance
 
-College coursework archive for **IA 329 - Policy Development for Information Assurance** at Eastern Michigan University.  
-Policy templates, disaster-recovery planning structure, annotated bibliographies, and policy drafts.
+![Policy, DR, and governance coursework](docs/demo.gif)
+
+College coursework portfolio for **IA 329** at Eastern Michigan University.  
+**Policy** drafts and review formats, **disaster recovery** planning structure, **annotated bibliographies**, and an applied **smart home security** paper.
 
 **Author:** [Julio Barros](https://github.com/Jkbarros)  
 **Index:** [college-projects](https://github.com/Jkbarros/college-projects)
@@ -10,14 +12,22 @@ Policy templates, disaster-recovery planning structure, annotated bibliographies
 
 | Area | Description |
 |------|-------------|
-| [Archive index](docs/archive-index.md) | Catalog of files in `archive/` with direct links |
-| [`archive/canvas-submissions/`](archive/canvas-submissions/) | Policy/draft templates, bibliographies, smart-home security paper |
+| [Submissions catalog](docs/submissions-catalog.md) | All assignments grouped by theme |
+| [Policy plan (1st draft)](docs/policy-plan-first-draft.md) | Initial policy plan template |
+| [Policy review format](docs/policy-review-format.md) | Structured policy review |
+| [IA329 second draft](docs/ia329-policy-second-draft.md) | Policy second-draft template |
+| [Paper policy structure](docs/paper-policy-structure.md) | Full policy paper outline |
+| [DR plan structure](docs/dr-plan-structure-template.md) | Disaster recovery template |
+| [Bibliography — organizations](docs/annotated-bibliography-organizations.md) | Security orgs research |
+| [Bibliography — privacy laws](docs/annotated-bibliography-privacy-laws.md) | Privacy law sources |
+| [Smart home security paper](docs/smart-home-security-paper.md) | Applied writing assignment |
+| [Archive index](docs/archive-index.md) | Links to original DOCX |
+| [`archive/canvas-submissions/`](archive/canvas-submissions/) | Canvas exports |
 
 ### Highlights
 
-- IA329 policy second draft template
-- DR plan structure and policy review formats
-- Annotated bibliographies (privacy laws and organizations)
+- All nine DOCX files converted to GitHub-readable markdown
+- Course thread: **policy lifecycle** → **DR** → **governance research** → **topic paper**
 
 ## Topics covered
 
@@ -25,8 +35,17 @@ Policy templates, disaster-recovery planning structure, annotated bibliographies
 flowchart LR
   P[Policy structure]
   DR[DR planning]
-  G[Governance and privacy]
-  P --> DR --> G
+  R[Annotated research]
+  A[Applied security topic]
+  P --> DR --> R --> A
+```
+
+## Regenerate docs
+
+```bash
+pip install -r requirements.txt
+python scripts/docx_to_markdown.py
+python scripts/generate_readme_demo.py
 ```
 
 ## Related repos
@@ -34,12 +53,8 @@ flowchart LR
 | Course | Link |
 |--------|------|
 | IA 103 - Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
+| IA 244 - Administration of Computer Systems | [ia244-administration-computer-systems](https://github.com/Jkbarros/ia244-administration-computer-systems) |
 | college-projects index | [college-projects](https://github.com/Jkbarros/college-projects) |
-
-## Roadmap
-
-- [ ] Convert key submissions to markdown in `docs/` (same pattern as IA 103)
-- [ ] Redact any sensitive identifiers before expanding public docs
 
 ## Notes for readers
 
