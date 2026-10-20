@@ -10,6 +10,7 @@ Policy templates, disaster-recovery planning structure, annotated bibliographies
 
 | Area | Description |
 |------|-------------|
+| [Archive index](docs/archive-index.md) | Catalog of files in `archive/` with direct links |
 | [`archive/canvas-submissions/`](archive/canvas-submissions/) | Policy/draft templates, bibliographies, smart-home security paper |
 
 ### Highlights
